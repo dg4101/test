@@ -1,4 +1,4 @@
 {
-  "type": "message",
-  "text": "Hello World"
+  'type': 'message',
+  'text': 'Hello World'
 }
